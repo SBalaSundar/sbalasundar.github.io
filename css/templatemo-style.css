@@ -85,7 +85,7 @@ p {
   font-weight: bold;
   letter-spacing: 1.6px;
   padding: 12px 36px;
-  margin-top: 42px;
+  margin-top: 12px;
   transition: all 0.4s ease-in-out;
   text-transform: uppercase;
 }
@@ -358,7 +358,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #home {
-    background: url('../images/mycover2.JPG') fixed;
+    background: url('../images/mycover2.png') fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -382,7 +382,7 @@ a:hover, a:active, a:focus {
 }
 
 #home p {
-  padding-top: 32px;
+  padding-top:10px;
 }
 
 
@@ -473,8 +473,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .education-img {
-background: url('../images/education-img.jpg') no-repeat;
-
+  background: url('../images/experience-img.jpg') no-repeat;
 }
 
 #education .media-heading {
